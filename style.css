@@ -1,0 +1,16 @@
+body {
+    background-color: #2c2c2c;
+    color: #f0f0f0;
+    font-family: 'Arial', sans-serif;
+    display: grid;
+}
+canvas {
+    display: block;
+    margin: 10px auto;
+    background-color: #333;
+    border: 2px solid #666;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    padding: 5px;
+    border-radius: 6px;
+}
+
